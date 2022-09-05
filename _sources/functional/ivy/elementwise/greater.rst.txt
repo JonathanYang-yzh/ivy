@@ -2,6 +2,8 @@ greater
 =======
 
 .. autofunction:: ivy.functional.ivy.elementwise.greater
+
+.. autofunction:: ivy.container.container_methods.greater
 |
 | **Supported Frameworks:**
 

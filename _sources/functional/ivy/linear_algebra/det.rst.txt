@@ -2,6 +2,8 @@ det
 ===
 
 .. autofunction:: ivy.functional.ivy.linear_algebra.det
+
+.. autofunction:: ivy.container.container_methods.det
 |
 | **Supported Frameworks:**
 

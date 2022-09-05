@@ -2,6 +2,8 @@ dev
 ===
 
 .. autofunction:: ivy.functional.ivy.device.dev
+
+.. autofunction:: ivy.container.container_methods.dev
 |
 | **Supported Frameworks:**
 

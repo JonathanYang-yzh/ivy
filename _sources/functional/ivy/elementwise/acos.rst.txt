@@ -2,6 +2,8 @@ acos
 ====
 
 .. autofunction:: ivy.functional.ivy.elementwise.acos
+
+.. autofunction:: ivy.container.container_methods.acos
 |
 | **Supported Frameworks:**
 

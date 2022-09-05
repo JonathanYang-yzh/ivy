@@ -2,6 +2,10 @@ solve
 =====
 
 .. autofunction:: ivy.functional.ivy.linear_algebra.solve
+
+.. autofunction:: ivy.container.container_methods.solve
+
+.. autofunction:: ivy.container.container_methods.static_solve
 |
 | **Supported Frameworks:**
 

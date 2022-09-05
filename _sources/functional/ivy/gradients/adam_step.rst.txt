@@ -2,6 +2,8 @@ adam_step
 =========
 
 .. autofunction:: ivy.functional.ivy.gradients.adam_step
+
+.. autofunction:: ivy.container.container_methods.adam_step
 |
 | **Supported Frameworks:**
 

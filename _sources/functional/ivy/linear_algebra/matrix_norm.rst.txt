@@ -2,6 +2,10 @@ matrix_norm
 ===========
 
 .. autofunction:: ivy.functional.ivy.linear_algebra.matrix_norm
+
+.. autofunction:: ivy.container.container_methods.matrix_norm
+
+.. autofunction:: ivy.container.container_methods.static_matrix_norm
 |
 | **Supported Frameworks:**
 

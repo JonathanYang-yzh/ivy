@@ -2,6 +2,8 @@ sum
 ===
 
 .. autofunction:: ivy.functional.ivy.statistical.sum
+
+.. autofunction:: ivy.container.container_methods.sum
 |
 | **Supported Frameworks:**
 

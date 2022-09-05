@@ -2,6 +2,10 @@ triu
 ====
 
 .. autofunction:: ivy.functional.ivy.creation.triu
+
+.. autofunction:: ivy.container.container_methods.triu
+
+.. autofunction:: ivy.container.container_methods.static_triu
 |
 | **Supported Frameworks:**
 

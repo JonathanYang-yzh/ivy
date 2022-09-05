@@ -2,6 +2,8 @@ repeat
 ======
 
 .. autofunction:: ivy.functional.ivy.manipulation.repeat
+
+.. autofunction:: ivy.container.container_methods.static_repeat
 |
 | **Supported Frameworks:**
 

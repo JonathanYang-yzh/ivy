@@ -2,6 +2,8 @@ atanh
 =====
 
 .. autofunction:: ivy.functional.ivy.elementwise.atanh
+
+.. autofunction:: ivy.container.container_methods.atanh
 |
 | **Supported Frameworks:**
 

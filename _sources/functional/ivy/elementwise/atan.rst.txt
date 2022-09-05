@@ -2,6 +2,10 @@ atan
 ====
 
 .. autofunction:: ivy.functional.ivy.elementwise.atan
+
+.. autofunction:: ivy.container.container_methods.static_atan
+
+.. autofunction:: ivy.container.container_methods.atan
 |
 | **Supported Frameworks:**
 

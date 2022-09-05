@@ -2,6 +2,8 @@ can_cast
 ========
 
 .. autofunction:: ivy.functional.ivy.data_type.can_cast
+
+.. autofunction:: ivy.container.container_methods.can_cast
 |
 | **Supported Frameworks:**
 

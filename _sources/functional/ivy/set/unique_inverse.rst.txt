@@ -2,6 +2,8 @@ unique_inverse
 ==============
 
 .. autofunction:: ivy.functional.ivy.set.unique_inverse
+
+.. autofunction:: ivy.container.container_methods.static_unique_inverse
 |
 | **Supported Frameworks:**
 

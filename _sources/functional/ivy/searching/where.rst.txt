@@ -2,6 +2,8 @@ where
 =====
 
 .. autofunction:: ivy.functional.ivy.searching.where
+
+.. autofunction:: ivy.container.container_methods.where
 |
 | **Supported Frameworks:**
 

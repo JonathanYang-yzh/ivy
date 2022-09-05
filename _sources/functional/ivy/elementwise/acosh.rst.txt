@@ -2,6 +2,8 @@ acosh
 =====
 
 .. autofunction:: ivy.functional.ivy.elementwise.acosh
+
+.. autofunction:: ivy.container.container_methods.acosh
 |
 | **Supported Frameworks:**
 

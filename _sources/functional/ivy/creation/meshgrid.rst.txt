@@ -2,6 +2,8 @@ meshgrid
 ========
 
 .. autofunction:: ivy.functional.ivy.creation.meshgrid
+
+.. autofunction:: ivy.container.container_methods.static_meshgrid
 |
 | **Supported Frameworks:**
 

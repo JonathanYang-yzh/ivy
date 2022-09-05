@@ -2,6 +2,8 @@ full_like
 =========
 
 .. autofunction:: ivy.functional.ivy.creation.full_like
+
+.. autofunction:: ivy.container.container_methods.static_full_like
 |
 | **Supported Frameworks:**
 

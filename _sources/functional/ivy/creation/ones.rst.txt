@@ -2,6 +2,8 @@ ones
 ====
 
 .. autofunction:: ivy.functional.ivy.creation.ones
+
+.. autofunction:: ivy.container.container_methods.static_ones
 |
 | **Supported Frameworks:**
 

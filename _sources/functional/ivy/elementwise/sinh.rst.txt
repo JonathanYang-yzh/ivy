@@ -2,6 +2,10 @@ sinh
 ====
 
 .. autofunction:: ivy.functional.ivy.elementwise.sinh
+
+.. autofunction:: ivy.container.container_methods.sinh
+
+.. autofunction:: ivy.container.container_methods.static_sinh
 |
 | **Supported Frameworks:**
 

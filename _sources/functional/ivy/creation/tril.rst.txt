@@ -2,6 +2,8 @@ tril
 ====
 
 .. autofunction:: ivy.functional.ivy.creation.tril
+
+.. autofunction:: ivy.container.container_methods.tril
 |
 | **Supported Frameworks:**
 
